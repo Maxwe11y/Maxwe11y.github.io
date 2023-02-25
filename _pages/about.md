@@ -9,9 +9,9 @@ profile:
   image: pic_li_wei.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>wei008@e.ntu.edu.sg</p>
+    <p>50 Nanyang Ave, #32 Block N4 #02a</p>
+    <p>Singapore 639798</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
