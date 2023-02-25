@@ -22,11 +22,11 @@ Hi, I am Wei Li, a final year PhD candidate at School of Computer Science and En
 
 My diverse educational background (biology, industrial engineering, management science and computer science) gives me the confidence to take on challenging work across different fields. I am also eager to collaborate with people from different domains. My current research interests include: **Sentiment Analysis**, **Explainable Artificial Intelligence**, and **Conversational Emotion-cause Pair Extraction**. Besides, I have close collaboration with my teammates in **Persona-based Dialogue Generation**. Please click [publications](/publications/) or [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Maxwe11y) on the navigation bar for detailed information. During my leisure time, I like playing snooker and swimming.
 
-<a href='#'>I am in the job market now!<a> Please feel free to drop me an [email](mailto:luyao001@e.ntu.edu.sg) or a message to [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/璐瑶-朱-34418714a/) if you are interested. Thank you. :blush:
+<a href='#'>I am in the job market now!<a> Please feel free to drop me an [email](mailto:wei008@e.ntu.edu.sg) or a message to [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/maxwell-lee-299348240) if you are interested. Thank you. :blush:
   
 ### what I did in research during PhD study <img align="right" width="360" height="200" src="/assets/img/picture2.pdf"/>
   <ul>
-    <li>I proposed to detect the interlocutor intent for open-domain conversation and train the intent detector via semi-supervised learning.</li>
-    <li>I developed a persona-based dialouge system for chit-chat, enabling the chatbot to generate more persona-consistent and contextual coherent responses.</li>
-    <li>I developed a framework for extracting persona attributes from conversations.</li>
+    <li>I presented a framework for conversational sentiment analysis using generalized neural tensor network as a contextulizer.<li>
+    <li>I proposed to further improve the performance of conversational sentiment analysis by integrating utterance-level symbolic knowledge and concept-level symbolic knowledge.</li>
+    <li>I introduced a new task to extract emotion-cause pairs from conversations and built a new dataset accordingly.</li>
   </ul>
