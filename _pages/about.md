@@ -24,7 +24,7 @@ My diverse educational background (biology, industrial engineering, management s
 
 <a href='#'>I am in the job market now!<a> Please feel free to drop me an [email](mailto:wei008@e.ntu.edu.sg) or a message to [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](linkedin.com/in/maxwell-lee-299348240) if you are interested. Thank you. :blush:
   
-### what I did in research during PhD study <img align="right" width="360" height="200" src="/assets/img/pic_li_wei.jpg"/>
+### what I did in research during PhD study <img align="right" width="360" height="200" src="/assets/img/model_p2_v2.pdf"/>
   <ul>
     <li>I presented a framework for conversational sentiment analysis using generalized neural tensor network as a contextulizer.</li>
     <li>I proposed to further improve the performance of conversational sentiment analysis by integrating utterance-level symbolic knowledge and concept-level symbolic knowledge.</li>
