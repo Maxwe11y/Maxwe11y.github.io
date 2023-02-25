@@ -6,7 +6,7 @@ subtitle: <a href='#'>After all, tomorrow is another day.</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pic_li_wei.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
