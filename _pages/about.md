@@ -26,7 +26,7 @@ My diverse educational background (biology, industrial engineering, management s
   
 ### what I did in research during PhD study <img align="right" width="360" height="300" src="/assets/img/model_ECPEC.jpg"/>
   <ul>
-    <li>I presented a framework for conversational sentiment analysis using generalized neural tensor network as a contextulizer.</li>
+    <li>I developed a framework for conversational sentiment analysis using generalized neural tensor network as a contextulizer.</li>
     <li>I proposed to further improve the performance of conversational sentiment analysis by integrating utterance-level symbolic knowledge and concept-level symbolic knowledge.</li>
     <li>I introduced a new task to extract emotion-cause pairs from conversations and built a new dataset accordingly.</li>
     <li>I presented the mathematical explanation for NTN from the perspective of Taylor's theorem and bring two different forms of neural tensor network together into a single framework.</li>
