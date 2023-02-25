@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-11 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Our paper SKIER A Symbolic Knowledge Integrated Model for Conversational Emotion Recognition gets accepted in AAAI 2023! :sparkles: :smile:
