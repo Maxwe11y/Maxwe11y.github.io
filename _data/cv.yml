@@ -12,10 +12,10 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution:Nanyang Technological University, Singapore
+      year: 2023
       description:
-        - Description 1.
+        - With a major GPA of 4.75 on a 5 scale.
         - Description 2.
         - title: Description 3.
           contents:
