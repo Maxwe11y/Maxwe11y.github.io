@@ -61,6 +61,13 @@
     - title: Introduction to Computational Thinking(CE1003)
       year: 2019 | Semester 1
       description: Mentoring undergraduate students in Lab class and quiz session relevant to C++ and Python programming languages.
+    - title: Human Computer Interaction(CE2004)
+      year: 2020 | Semester 1
+      description: Mentoring undergraduate students in Lab class relevant to an indoor navigation project.
+    - title: Artificial Intelligence(CZ3005)
+      year: 2020 | Semester 1
+      description: Mentoring undergraduate students in Lab class and quiz session relevant to a artificial intelligence techniques.
+      
 
 - title: Honors and Awards
   type: time_table
