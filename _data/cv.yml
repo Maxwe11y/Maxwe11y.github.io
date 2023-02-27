@@ -55,11 +55,11 @@
         contents:
           - Assist professors in concluding report of the research project supported by the National Natural Science Foundation of China No. 91546201, No. 71331005 and No.71110107026 related to Data Ming and Machine Learning.
 
-- title: Open Source Projects
+- title: Teaching Assistant
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
+    - title: Introduction to Computational Thinking(CE1003)
+      year: 2019 | Semester 1
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
