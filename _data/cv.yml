@@ -16,16 +16,12 @@
       year: 2023
       description:
         - With a major GPA of 4.75 on a 5 scale.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+
+    - title: Master of Science in Management Science and Engineering
+      institution: University of Chinese Academy of Sciences, Haidian District, Beijing
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with a major GPA of 86.50 on a 100 scale.
 
 - title: Experience
   type: time_table
