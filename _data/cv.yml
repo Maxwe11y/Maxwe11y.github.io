@@ -29,9 +29,9 @@
       description:
         - Graduated with a major GPA of 85.54 on a 100 scale.
         
-      - title: Study in School of Life Science and Biotechnology
-      institution: Shanghai Jiao Tong University, Minhang District, Shanghai
-      year: 2011
+    - title: Study in School of Life Science and Biotechnology
+    institution: Shanghai Jiao Tong University, Minhang District, Shanghai
+    year: 2011
 
 - title: Experience
   type: time_table
