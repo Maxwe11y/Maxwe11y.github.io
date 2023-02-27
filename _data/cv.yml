@@ -119,19 +119,26 @@
         - National Encouragement Scholarship
         - Sun Hung Kai Properties Grant
 
-- title: Academic Interests
-  type: nested_list
+- title: Services
   contents:
-    - title: Topic 1.
+    - title: Program Committees
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Volunteer, International Conference on Computational Science (ICCS 2018), Wuxi, China, June 2018.
+    - title: Reviewer
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Annual Meeting of the Association for Computational Linguistics (ACL)
+        - Empirical Methods in Natural Language Processing (EMNLP)
+        - International Conference on Computational Linguistics (COLING)
+        - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+        - Knowledge-Based Systems (KBS)
+        - Information Fusion (INFFUS)
+        - Applied Soft Computing (ASC)
+        - Neurocomputing
+        - Communications of the ACM
+        - Cognitive Computation
+        - IEEE Computational Intelligence Magazine (IEEE CIM)
+    - title: Volunteer
+      items:
+        - Rooftop Gardening Activity
+        - National Library of China Volunteering
+        - Organizer of Environmental Protection Activity 
