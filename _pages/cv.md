@@ -5,5 +5,5 @@ title: cv
 nav: true
 nav_order: 4
 description: Download CV
-cv_pdf: example_pdf.pdf
+cv_pdf: CV_Wei Li-2023-02-25_brief.pdf
 ---
