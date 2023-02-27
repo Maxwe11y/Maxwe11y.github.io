@@ -45,8 +45,6 @@
       institution: Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
       year: 2018
       description:
-        - title:
-        contents:
           - Sentiment analysis application and development in tourism.
           - Stock trading rule discovery with double deep Q-network.
 
