@@ -67,7 +67,12 @@
     - title: Artificial Intelligence(CZ3005)
       year: 2020 | Semester 1
       description: Mentoring undergraduate students in Lab class and quiz session relevant to a artificial intelligence techniques.
-      
+    - title: Introduction to Computational Thinking and Programming(CE1003)
+      year: 2020 | Semester 1
+      description: Mentoring undergraduate students in tutorial & Lab sessions relevant to C++ and Python.
+    - title: PROBABILITY & STATISTICS FOR COMPUTING(CE2100)
+      year: 2021 | Semester 2
+      description: Teaching tutorial sessions for undergraduate students on probability & statistics. 
 
 - title: Honors and Awards
   type: time_table
