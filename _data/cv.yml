@@ -71,8 +71,12 @@
       year: 2020 | Semester 1
       description: Mentoring undergraduate students in tutorial & Lab sessions relevant to C++ and Python.
     - title: PROBABILITY & STATISTICS FOR COMPUTING(CE2100)
-      year: 2021 | Semester 2
+      year: 2020 | Semester 2
       description: Teaching tutorial sessions for undergraduate students on probability & statistics. 
+    - title: Introduction to Computational Thinking & PRO(SC1003)
+      year: 2021 | Semester 1
+      description: Mentoring undergraduate students in tutorial & Lab sessions relevant to C++ and Python.
+      
 
 - title: Honors and Awards
   type: time_table
