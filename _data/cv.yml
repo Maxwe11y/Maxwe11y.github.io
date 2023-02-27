@@ -42,17 +42,19 @@
             - Support in annotating more than 800 hierarchical verb priment keys.
             - Primitive Labeling and semi-supervised algorithm programming on commonsense knowledge.
     - title: Research Internship
-      institution: Nanyang Technological University, Singapore
+      institution: Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
       year: 2018
       description:
-      - title: Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore.
         contents:
           - Sentiment analysis application and development in tourism.
           - Stock trading rule discovery with double deep Q-network.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Research Assistant
+      institution: Key Laboratory of Big Data Mining and Knowledge Management, Chinese Academy of Sciences, Beijing, China
+      year: 2015 - 2018
+      description:
+        contents:
+          - Assist professors in concluding report of the research project supported by the National Natural Science Foundation of China No. 91546201, No. 71331005 and No.71110107026 related to Data Ming and Machine Learning.
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
