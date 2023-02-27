@@ -120,6 +120,7 @@
         - Sun Hung Kai Properties Grant
 
 - title: Services
+  type: nested_list
   contents:
     - title: Program Committees
       items: 
