@@ -39,7 +39,7 @@
         - title: Human-Robot Collaborative AI for Advanced Manufacturing and Engineering (AME) WP4 Commonsense Knowledge.
           contents:
             - Support in collecting more than 900 hierarchical noun primenet keys.
-            - Support in annotating more than 800 hierarchical verb priment keys.
+            - Support in annotating more than 800 hierarchical verb primenet keys.
             - Primitive Labeling and semi-supervised algorithm programming on commonsense knowledge.
     - title: Research Internship
       institution: Computational Intelligence Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
