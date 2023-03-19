@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Hi, I am Wei Li, a final year PhD candidate at School of Computer Science and Engineering, Nanyang Technological University, under the supervision of Prof. [Erik Cambria](http://www.sentic.net/erikcambria/). I received my Bachelor of Industrial Engineering from Shanghai Jiao Tong University in 2015. After that, I obtained my M.S. in Management Science and Engineering from University of Chinese Academy of Sciences in 2018. I have published several research papers on these topics in top-tier journals. I also serves as an active reviewer of several journals and conferences, e.g., TNNLS, KBS, INFORM FUSION, NEUCOM, COLING, AAAI, EMNLP, ACL, and EACL.
