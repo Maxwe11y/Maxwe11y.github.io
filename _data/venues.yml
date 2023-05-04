@@ -4,3 +4,12 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+  
+  
+"AAAI":
+url: https://aaai-23.aaai.org
+color: "#00369f"
+
+"ACL":
+url: https://2023.aclweb.org
+color: "#FA8072"
