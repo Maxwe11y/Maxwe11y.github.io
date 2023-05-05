@@ -7,9 +7,9 @@
   
   
 "AAAI":
-url: https://aaai-23.aaai.org
-color: "#00369f"
+  url: https://aaai-23.aaai.org
+  color: "#00369f"
 
 "ACL":
-url: https://2023.aclweb.org
-color: "#FA8072"
+  url: https://2023.aclweb.org
+  color: "#FA8072"
