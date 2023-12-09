@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>wei.li@nus.edu.sg</p>
-    <p>COM4-05-01</p>
+    <p>COM4/05/01</p>
     <p>Kent Ridge Campus</p>
 
 news: true  # includes a list of news items
