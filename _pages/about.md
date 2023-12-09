@@ -9,9 +9,9 @@ profile:
   image: pic_li_wei.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>wei008@e.ntu.edu.sg</p>
-    <p>50 Nanyang Ave</p>
-    <p>Singapore 639798</p>
+    <p>wei.li@nus.edu.sg</p>
+    <p>COM4-05-01</p>
+    <p>Kent Ridge Campus, NUS</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
