@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-14 00:00:00-0400
+date: 2023-12-10 00:00:00-0400
 inline: true
 ---
 
-I was invited as a Program Committee member (PC) for the 38th AAAI Conference on Artificial Intelligence (AAAI-24)! :sparkles: :smile:
+Our paper ``Task-Aware Self-Supervised Framework for Dialogue Discourse Parsing" was accepted by Findings of the Association for Computational Linguistics: EMNLP 2023! :sparkles: :smile:
